@@ -1,4 +1,8 @@
-1st Project as Part of Deep Learning Assigment-
+1st Project as Part of Deep Learning Course-
+
+Course Instructor:
+Dr. Kavita Khanna
+
 
 Contribuors:
 
